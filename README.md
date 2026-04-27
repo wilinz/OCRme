@@ -7,7 +7,7 @@
 
 ## Scan photo and get text or PDF 
 
-Get result as Editable Shareable Translatable plain text or Searchable PDF.   
+1. Get result as Editable Shareable Translatable plain text or Searchable PDF.   
 For PDF you can also download it or open in another app. 
 Material design.
 
